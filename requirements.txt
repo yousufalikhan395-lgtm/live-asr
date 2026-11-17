@@ -1,0 +1,7 @@
+numpy
+sounddevice
+torch
+torchaudio
+onnx-asr
+onnxruntime
+pynput
