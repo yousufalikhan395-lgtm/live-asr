@@ -29,7 +29,7 @@ Powered by **NVIDIA’s Parakeet TDT** (for speed) and **Silero VAD** (for smart
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/live-asr.git
+git clone [https://github.com/](https://github.com/yousufalikhan395-lgtm/live-asr/)
 cd live-asr
 ```
 
